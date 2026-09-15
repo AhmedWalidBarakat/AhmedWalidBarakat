@@ -10,6 +10,7 @@
 <div align="center" style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
+      -I enjoy building practical projects, solving problems, and exploring how technology can be used to create smarter solutions.
       - I’m looking to collaborate on <strong>AI/ML Projects</strong><br>
       - 📫 How to reach me <strong>ahmedwalidbarakat@gmail.com</strong><br>
       - Check out my Portfolio website listed below to learn more about me!<br>
