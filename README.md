@@ -17,7 +17,7 @@
     </p>
   </div>
   <div>
-    <img src="FILL WITH PIC " />
+    <hr style="border: none; height: 2px; background-color: blue;">
   </div>
 </div>
 
